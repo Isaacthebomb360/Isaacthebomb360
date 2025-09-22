@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **Isaacthebomb306/Isaacthebomb306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,14 +43,25 @@ Here are some ideas to get you started:
 ---
 
 ## 🌟 Featured Projects
+> _(none of the View Project links will work)_
 
-| Project             | Description                                      | Link                                                         |
-|---------------------|--------------------------------------------------|--------------------------------------------------------------|
-| **Helion Warfront** | Sci-fi strategy/action game in Unity             | [View Project](https://github.com/Isaacthebomb306/Helion_Warfront) |
-| **Music-Player**    | 3D music player with interactive UI              | [View Project](https://github.com/Isaacthebomb306/Music-Player)     |
-|---------------------|--------------------------------------------------|--------------------------------------------------------------|
-| **Echo-Dungeon**    | Roguelike dungeon crawler                        | [View Project](https://github.com/Isaacthebomb306/Echo-Dungeon)      |
-| **Nebula-Blaster**  | Space-themed arcade shooter                      | [View Project](https://github.com/Isaacthebomb306/Nebula-Blaster)   |
+| Project             | Description                                      | Link                                                         | Published Link |
+|---------------------|--------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| | | | |
+| ***Unity*** | | | |
+| | | | |
+| **Helion Warfront** | Sci-fi first person action shooter game made with Unity (takes place on mars) | [View Project](https://github.com/Isaacthebomb306/Helion_Warfront) | [Link](https://isaacthebomb360.itch.io/helion-warfront) |
+| **Magic 8 Ball** | An 8ball app based on my discord bot's open web functionality | [View Project](https://github.com/Isaacthebomb306/unity-8-ball) | [Link](https://isaacthebomb360.itch.io/8ball) |
+| | | | |
+| ***Raylib*** | | | |
+| | | | |
+| **3Dplayer**    | Music player with interactive UI and 3D model view | [View Project](https://github.com/Isaacthebomb306/Music-Player)     | [Link](https://isaacthebomb360.itch.io/3dplayer) |
+| **Win-Loss Counter**    | Games tracker tool for streamers | [View Project](https://github.com/Isaacthebomb306/win-lose_Counter)      | [Link](https://isaacthebomb360.itch.io/win-loss-counter) |
+| **The Knight Awoken Shadows**    | 2nd entry in a tiny series of games | [View Project](https://github.com/Isaacthebomb306/the_knight_awoken_shadows)      | [Link](https://isaacthebomb360.itch.io/the-knight-awoken-shadows) |
+| | | | |
+| ***Godot*** | | | |
+| | | | |
+| **Nebula-Blaster**  | Space-themed arcade shooter                      | [View Project](https://github.com/Isaacthebomb306/Nebula-Blaster)   | Still in development |
 
 ---
 
@@ -63,9 +74,14 @@ Here are some ideas to get you started:
 ---
 
 <!-- Optionally add social links here later -->
+## 📨 Socials
+- 
+- 
+- 
 
 ---
 
 ## 📫 Get in Touch
 
 Feel free to reach out for game dev collabs, questions, or just to chat about gaming!
+
