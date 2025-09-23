@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
+🇲🇹 Maltese
 🎮 Aspiring game developer passionate about crafting immersive experiences  
 🖥️ Skilled in **Unity** and **Web Development**  
 📚 Currently a student, always learning and experimenting  
@@ -42,26 +43,31 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Public Games/Software/Projects
 > _(none of the View Project links will work)_
 
 | Project             | Description                                      | Link                                                         | Published Link |
 |---------------------|--------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 | | | | |
-| ***Unity*** | | | |
+| ***Unity*** | C# | | |
 | | | | |
 | **Helion Warfront** | Sci-fi first person action shooter game made with Unity (takes place on mars) | [View Project](https://github.com/Isaacthebomb306/Helion_Warfront) | [Link](https://isaacthebomb360.itch.io/helion-warfront) |
 | **Magic 8 Ball** | An 8ball app based on my discord bot's open web functionality | [View Project](https://github.com/Isaacthebomb306/unity-8-ball) | [Link](https://isaacthebomb360.itch.io/8ball) |
+| **Bubble Odyssey** (Game Jam) | Much like 'I Am Bread' this is a parkour game that takes place in the kitchen | [View Project](https://github.com/AdamD02/MeowtuahGameJam) | [Link](https://isaacthebomb360.itch.io/bubble-odyssey) |
+| **One Last Look** (Game Jam) | An *emotional* "game" that flashes a person's life before their eyes | [View Project](https://github.com/Isaacthebomb306/Games4Cure_2025) | [Link](https://isaacthebomb360.itch.io/one-last-look) |
 | | | | |
-| ***Raylib*** | | | |
+| ***Raylib*** | C++ | | |
 | | | | |
 | **3Dplayer**    | Music player with interactive UI and 3D model view | [View Project](https://github.com/Isaacthebomb306/Music-Player)     | [Link](https://isaacthebomb360.itch.io/3dplayer) |
-| **Win-Loss Counter**    | Games tracker tool for streamers | [View Project](https://github.com/Isaacthebomb306/win-lose_Counter)      | [Link](https://isaacthebomb360.itch.io/win-loss-counter) |
-| **The Knight Awoken Shadows**    | 2nd entry in a tiny series of games | [View Project](https://github.com/Isaacthebomb306/the_knight_awoken_shadows)      | [Link](https://isaacthebomb360.itch.io/the-knight-awoken-shadows) |
+| **Win-Loss Counter** (Software) | Games tracker tool for streamers | [View Project](https://github.com/Isaacthebomb306/win-lose_Counter)      | [Link](https://isaacthebomb360.itch.io/win-loss-counter) |
+| **The Knight Awoken Shadows** (Software) | 2nd entry in a tiny series of games | [View Project](https://github.com/Isaacthebomb306/the_knight_awoken_shadows)      | [Link](https://isaacthebomb360.itch.io/the-knight-awoken-shadows) |
 | | | | |
-| ***Godot*** | | | |
+| ***Godot*** | GDscript | | |
 | | | | |
 | **Nebula-Blaster**  | Space-themed arcade shooter                      | [View Project](https://github.com/Isaacthebomb306/Nebula-Blaster)   | Still in development |
+| | | | |
+| ***Unreal Engine*** | C++ | | |
+| | | | |
 
 ---
 
@@ -74,23 +80,19 @@ Here are some ideas to get you started:
 ---
 
 <!-- Optionally add social links here later -->
-## 📨 Socials
-- 
-- 
-- 
-
----
-
-## 📫 Get in Touch
-
+## 📨📫 Socials / Get in Touch
 Feel free to reach out for game dev collabs, questions, or just to chat about gaming!
+
+- [Youtube](https://www.youtube.com/@Isaacthebomb306)
+- [X](https://x.com/Isaacthebomb306)
+- [Bluesky](https://bsky.app/profile/isaacthebomb360.bsky.social)
+- [Itch.io](https://isaacthebomb360.itch.io/)
+- [GameJolt](https://gamejolt.com/@Isaacthebomb360)
 
 ---
 ## 📷 In-Game Photography
 **Helion Warfront** 
-<!--
-![A mushroom-head robot drinking bubble tea](https://raw.githubusercontent.com/Codecademy/docs/main/media/codey.jpg 'Codey, the Codecademy mascot, drinking bubble tea') 
--->
+
 [![Safe House](hw/camera/Screenshot_2025-09-12_01-34-55.png 'Safe House')](https://isaacthebomb360.itch.io/helion-warfront)
 [![Safe House 2](hw/camera/Screenshot_2025-09-12_00-44-09.png 'Safe House 2')](https://isaacthebomb360.itch.io/helion-warfront)
 [![Safe House 3](hw/camera/Screenshot_2025-06-29_00-40-09.png 'Safe House 3')](https://isaacthebomb360.itch.io/helion-warfront)
