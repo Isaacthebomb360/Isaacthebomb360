@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🇲🇹 Maltese
-🎮 Aspiring game developer passionate about crafting immersive experiences  
-🖥️ Skilled in **Unity** and **Web Development**  
-📚 Currently a student, always learning and experimenting  
-🎲 Gamer at heart & creator by choice
+- 🇲🇹 Maltese  
+- 🎮 Aspiring game developer passionate about crafting immersive experiences  
+- 🖥️ Skilled in **Unity** and **Web Development**  
+- 📚 Currently a student, always learning and experimenting  
+- 🎲 Gamer at heart & creator by choice
 
 ---
 
