@@ -129,8 +129,9 @@ Feel free to reach out for game dev collabs, questions, or just to chat about ga
 
 ---
 ## 📷 In-Game Photography
+---
 **Helion Warfront** 
-
+---
 [![Safe House](hw/camera/Screenshot_2025-09-12_01-34-55.png 'Safe House')](https://isaacthebomb360.itch.io/helion-warfront)
 [![Safe House 2](hw/camera/Screenshot_2025-09-12_00-44-09.png 'Safe House 2')](https://isaacthebomb360.itch.io/helion-warfront)
 [![Safe House 3](hw/camera/Screenshot_2025-06-29_00-40-09.png 'Safe House 3')](https://isaacthebomb360.itch.io/helion-warfront)
@@ -142,3 +143,13 @@ Feel free to reach out for game dev collabs, questions, or just to chat about ga
 [![Ancor Point](hw/camera/Screenshot_2025-06-29_00-40-20.png 'Ancor Point')](https://isaacthebomb360.itch.io/helion-warfront)
 [![Sewer Entrance](hw/camera/Screenshot_2025-06-29_01-11-06.png 'Sewer Entrance')](https://isaacthebomb360.itch.io/helion-warfront)
 [![Sewer Entrance 2](hw/camera/Screenshot_2025-06-29_00-37-58.png 'Sewer Entrance 2')](https://isaacthebomb360.itch.io/helion-warfront)
+---
+**Helion Warfront: Skyburner 3D** 
+
+[![Main Menu](hw_SB3D/Screenshot_145232.png 'Main Menu')](https://isaacthebomb360.itch.io/skyburner3d)
+[![Gameplay](hw_SB3D/Screenshot_145302.png 'Gameplay')](https://isaacthebomb360.itch.io/skyburner3d)
+[![Game Over](hw_SB3D/Screenshot_145322.png 'Game Over')](https://isaacthebomb360.itch.io/skyburner3d)
+#### Nighermare Mode
+[![Main Menu](hw_SB3D/Screenshot_145428.png 'Main Menu')](https://isaacthebomb360.itch.io/skyburner3d)
+[![Gameplay](hw_SB3D/Screenshot_145401.png 'Gameplay')](https://isaacthebomb360.itch.io/skyburner3d)
+[![Game Over](hw_SB3D/Screenshot_145417.png 'Game Over')](https://isaacthebomb360.itch.io/skyburner3d)
